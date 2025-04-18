@@ -1,0 +1,14 @@
+F:\affan coding\C#\challenges\Reverse the string\bin\Debug\net8.0\Reverse the string.exe
+F:\affan coding\C#\challenges\Reverse the string\bin\Debug\net8.0\Reverse the string.deps.json
+F:\affan coding\C#\challenges\Reverse the string\bin\Debug\net8.0\Reverse the string.runtimeconfig.json
+F:\affan coding\C#\challenges\Reverse the string\bin\Debug\net8.0\Reverse the string.dll
+F:\affan coding\C#\challenges\Reverse the string\bin\Debug\net8.0\Reverse the string.pdb
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.GeneratedMSBuildEditorConfig.editorconfig
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.AssemblyInfoInputs.cache
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.AssemblyInfo.cs
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.csproj.CoreCompileInputs.cache
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.dll
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\refint\Reverse the string.dll
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.pdb
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\Reverse the string.genruntimeconfig.cache
+F:\affan coding\C#\challenges\Reverse the string\obj\Debug\net8.0\ref\Reverse the string.dll

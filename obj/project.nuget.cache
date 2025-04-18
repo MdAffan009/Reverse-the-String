@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E0pffVVVK7X2VtHPXYSs4hm2ioxs9TIG7Nif5wJEnF0hmDtr2pB2UD4eJecQz+RkJ9cnlmzgDVdul/vPxBjqA==",
+  "success": true,
+  "projectFilePath": "F:\\affan coding\\C#\\challenges\\Reverse the string\\Reverse the string.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AFFAN\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\AFFAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
