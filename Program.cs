@@ -1,32 +1,37 @@
 ﻿using System;
 
-namespace MyApp
+class Program
 {
-    internal class Program
+    static string ReverseString(string input)
     {
-        static void Main(string[] args)
+        if (string.IsNullOrEmpty(input)) return input;
+
+        char[] word = input.ToCharArray(); 
+        int left = 0;
+        int right = word.Length - 1;
+
+        while (left < right)
         {
+            // Swap characters
+            char temp = word[left];
+            word[left] = word[right];
+            word[right] = temp;
 
-            Console.WriteLine("Welcome to this Program!");
-            Console.WriteLine("This Program could reverse any word that you will give!");
-            Console.WriteLine("So, What is your word?");
-            string? Word = Console.ReadLine();
-
-            string Null = "\0";
-
-            Word += Null;
-
-            int count = Word.Length;
-
-            for (int i = 0; i < count; i++)
-            {
-                int eqn = count - 1 - i;
-
-                Console.Write(Word[eqn]);
-            }
-
-
-            Console.ReadKey();
+            left++;
+            right--;
         }
+
+        return new string(word);  
+    }
+
+    static void Main()
+    {
+        Console.WriteLine("Enter Your String");
+        string original = Console.ReadLine();
+        string reversed = ReverseString(original);
+        Console.WriteLine("Original: " + original);
+        Console.WriteLine("Reversed: " + reversed);
+
+        Console.ReadKey();
     }
 }
